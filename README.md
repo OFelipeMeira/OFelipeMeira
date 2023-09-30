@@ -24,5 +24,3 @@
   <img height="75em" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/css-icon.png">
 
 </div>
-
-<hr/>
